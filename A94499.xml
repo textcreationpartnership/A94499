@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable Lords, the peeres in the High Court of Parliament assembled The humble petition of the maiors, bayliffes, jurats, freemen, and others inhabitants of the Cinque Ports, two ancient townes, and their members,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94499</idno>
+            <idno type="STC">Wing T1476</idno>
+            <idno type="STC">Thomason 669.f.4[86]</idno>
+            <idno type="STC">ESTC R210345</idno>
+            <idno type="EEBO-CITATION">99869154</idno>
+            <idno type="PROQUEST">99869154</idno>
+            <idno type="VID">160708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160708)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[86])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable Lords, the peeres in the High Court of Parliament assembled The humble petition of the maiors, bayliffes, jurats, freemen, and others inhabitants of the Cinque Ports, two ancient townes, and their members,</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold at the signe of the Starre on Bread-street-hill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: To the honourable, the knights, citizens, and burgesses in the Commons House of Parliament assembled. The humble petition of the maiors, bayliffes, jurats, freemen, and others inhabitants of the Cinque Ports, two ancient townes, and their members,.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>With engraved border.</note>
+                  <note>Petitions for reformation of worship, removal of scandalous ministers, restraint of French fishing on the English coast, and the relief of Ireland.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  17th century --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160708:1" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONOURABLE LORDS, THE PEERES In the High Court of PARLIAMENT aſſembled. The humble Petition of the Maiors, Bayliffes, Jurats, Freemen, and others Inhabitants of the Cinque Ports, two ancient Townes, and their Members,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT your Petitioners have juſt and great cauſe, with all thankfulneſſe, humbly and heartily to acknow<g ref="char:EOLhyphen"/>ledge your Honours exceeding labour and paines taken in this preſent Parliament, and the agreement of your Lordſhips with the Honourable houſe of Commons, which tends to the glory of God, the Ho<g ref="char:EOLhyphen"/>nour and ſafety of his Majeſtie, the good of this State and Kingdome; which by your great wiſedomes and no<g ref="char:EOLhyphen"/>ble endeavours have been effected, and by us your Petitioners obtained and enjoyed, in the reducing the govern<g ref="char:EOLhyphen"/>ment of this Kingdome to the ancient and priſtine government of the inheritable Lawes thereof, vindicating the Rights and Prerogative of his Majeſtie, and Liberty of the Subjects, ſecuring of our lives and eſtates in your zea<g ref="char:EOLhyphen"/>lous ejection and eradicating of the formidable power of the Prelates in their Civill authorities: And we humbly beg of your Lordſhips, that this happy union may ever continue, and more eſpecially at this preſent, for the ac<g ref="char:EOLhyphen"/>compliſhing of what is already begun, and for a full and abſolute reformation of the government and grieve<g ref="char:EOLhyphen"/>ances both in the State, Church and Common-wealth: And we, with the utmoſt of our lives and eſtates, are fully determined to defend his Majeſties Royall Perſon and State, and your Lordſhips in your joynt, happy and ho<g ref="char:EOLhyphen"/>nourable reſolutions and proceedings. And further our moſt humble and earneſt ſuit is, that your Lordſhips, out of your great care and wiſedomes, will by ſome good wayes and meanes obtaine his Majeſties Royall Perſon and preſence neere the Parliament, with the Prince his Highneſſe, for the better effecting of all your worthy in<g ref="char:EOLhyphen"/>tents and purpoſes, and for the happineſſe and flouriſhing eſtate of King and Kingdome. And we (according to the Proteſtation by us already taken) will readily expoſe our ſelves and fortunes for the maintenance of the ſame.</p>
+            <closer>
+               <signed>And your humble Petitioners ſhall ever pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>TO THE HONOURABLE, THE KNIGHTS, CITIZENS, AND BURGESSES in the Commons Houſe of PARLIAMENT aſſembled. The humble Petition of the Maiors, Bayliffes, Jurats, Freemen, and others Inhabitants of the Cinque Ports, two ancient Townes, and their Members,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT your Petitioners (with the body of this Kingdome) doe with all thankfulneſſe acknowledge your indefa<g ref="char:EOLhyphen"/>tigable paines and cares (beſides the ſeverall attempts that have been offered againſt your perſons and Priviledges) in your pious and politicke endeavours for the glory of God, and ſettling of the peace of this Kingdome: Which although it have not hitherto performed the deſired ends and effects expected, yet our thankfulneſſe is unto you never the leſſe, your Petitioners conceiving the cauſes of ſuch diſtractions and ſlow proceedings in matters of greateſt conſequence, as alſo thoſe diſtempers in the State and Citie to proceed from evill Councellours, too neere his Majeſties Sacred Perſon, and ſuch their Councels fomented by ill affected inſtruments both in Court and Citie; yet nevertheleſſe your Petitioners, and all others well affected to true Religion, the honour of his Majeſtie, and good of his Kingdom, to Gods glory doe confeſſe and teſtifie the great good that hath ſucceeded and been effected by you, in ſubverting the power and rule of Antichriſt, in ſup<g ref="char:EOLhyphen"/>porting and maintaining his Majeſties Honour and right of Prerogative in things obvious to all the world, and alſo in at<g ref="char:EOLhyphen"/>chievement of the lawfull liberties of the Subject, and vindicating the governement to the rule of the inheritable Lawes of this Land, from all thoſe forced illegall preſſures, under which your Petitioners were heavily burthened, contrary to the an<g ref="char:EOLhyphen"/>cient priviledges of their Charter, confirmed by his Majeſtie and his Noble Progenitors, and hath inviolably continued un<g ref="char:EOLhyphen"/>to them neere ſix hundred yeeres paſt, till of late time. For which priviledges your Petitioners are obliged to great and con<g ref="char:EOLhyphen"/>ſiderable ſervices, and have duely performed them, as may be made apparent. And alſo humbly praying that this Honou<g ref="char:EOLhyphen"/>rable Aſſembly will ſeriouſly conſider the ſituation of our Townes, being ſeated upon the breaſt of the Kingdome, and thereby neceſsitated to beare the brunt and firſt onſet of any invaſion of Forraigne enemies; and therefore for defence of the whole Kingdome, we are treblely charged with Armes and Ammunition to what the Counties are, beſides the mentenance of many great Ordnance, with proviſion for them, at our own coſt, with many other charges and burthens, too heavy for us alone to beare, moſt of which hath been by ſome already made knowne unto this Honourable Houſe, although many more might be added thereunto.</p>
+            <p>All which conſidered, our Petitions are, that (notwithſtanding all diſguſts, threats and affronts that have bin offered, or that may be) you will couragiouſly goe on in the reformation and ſettling of the pure worſhip of God, according to his word, both in Doctrine and Diſcipline, wholly caſting out all the dregs and remaines of Popery and Superſtition, that <hi>Jeſus Chriſt</hi> by his word may alone rule and governe his Church in purity; Removing ignorant, ſuperſtitious and ſcandalous Miniſters, and placing of painfull and pious Preachers in their places with competent mentenance; Providing for his Ma<g ref="char:EOLhyphen"/>jeſtie, and the Kingdomes ſafety, by going on in your reſolutions for a Poſture of Warlike defence throughout the ſame; In which we humbly pray, the Cinque Ports, Townes and members may be in time provided for with ſufficient means for their Fortifications; and eſpecially that a defence may be made upon the Roades of <hi>Dungen-naſſe,</hi> the onely dangerous and moſt eaſie landing place for any invaſive enemies; And that the unlawfull and deſtructive manner of fiſhing of the French upon the Engliſh Coaſt may be reſtrained: That the Fees of his Majeſties Cuſtome-houſe in the Ports may be regulated; That this Honourable houſe will be further pleaſed to endeavour, by all good wayes and meanes, to procure the preſence and reſidence of his Majeſtie and the Prince to be neere unto the Parliament, for the effectuall ſpeeding the aydes and ſup<g ref="char:EOLhyphen"/>plies of diſtreſſed IRELAND, where our Brethrens bloud cryes loud to Heaven for pity and reliefe; That the Fundamentall and Parliamentary Lawes of this Kingdome, the Priviledges of Parliament, His Majeſties Rights and Prerogative, our native Rights and Priviledges be mentained, our lives &amp; eſtates ſecured; And that all the wiſedomes and endeavours of this Honourable Aſſembly may conduce to the happineſſe both of Church, State and Common-wealth, in eſtabliſhing of a faithfull Magiſtracy, a pious and faithfull Miniſtery; And that this Honourable Houſe be pleaſed to put the governe<g ref="char:EOLhyphen"/>ment of the Forts into ſuch hands as his Majeſtie and the Parliament ſhall ſee fit, and may confide in. Towards which (ac<g ref="char:EOLhyphen"/>cording to the Proteſtation taken by us) we are ready to expoſe (as his Majeſtie and the Parliament ſhall command) the ut<g ref="char:EOLhyphen"/>moſt of our lives and fortunes; And your Petitioners with all duty and reſpect, ſhall ever pray for you all in generall, and every one of you in particular.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
